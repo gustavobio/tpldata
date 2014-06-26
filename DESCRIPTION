@@ -1,0 +1,9 @@
+Package: tpldata
+Type: Package
+Title: Datasets from The Plant List
+Version: 0.1
+Date: 2014-06-07
+Author: Gustavo Carvalho
+Maintainer: Gustavo Carvalho   <gustavo.bio@gmail.com>
+Description: Collection of datasets gathered from The Plant List project
+License: GPL
