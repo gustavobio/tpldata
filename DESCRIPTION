@@ -7,3 +7,5 @@ Author: Gustavo Carvalho
 Maintainer: Gustavo Carvalho   <gustavo.bio@gmail.com>
 Description: Collection of datasets gathered from The Plant List project
 License: GPL
+LazyData: yes
+LazyDataCompression: xz
